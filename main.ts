@@ -1,0 +1,2 @@
+// Arbitrary typescript
+export {}
